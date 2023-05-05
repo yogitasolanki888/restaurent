@@ -1,0 +1,13 @@
+
+expenses by mukesh
+grocerry detailsdal chaval oil 
+milk 500
+roomrent 10000
+bijali bill 600
+Date: Tue Feb 28 14:31:31 2023
+expenses by yogita
+grocerry details dal chaval oil soap paste
+milk 700
+roomrent 9000
+bijali bill 2000
+Date: Tue Feb 28 14:37:21 2023
